@@ -1,0 +1,15 @@
+dataset/
+work/
+final_submission/
+*.tsv
+*.sqlite
+*.sqlite3
+*.parquet
+*.pkl
+*.log
+*.json
+*.zip
+*.tmp
+__pycache__/
+*.pyc
+.claude/
